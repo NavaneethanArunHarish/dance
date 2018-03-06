@@ -1,0 +1,10 @@
+/*Desktop*/
+@media screen and (min-device-width: 1200px) and (max-device-width:
+1600px) {
+ .textboxAlign {
+    padding-left: 150px;
+ }
+ .multiSelect {
+     margin-left: 530px;
+ }
+}

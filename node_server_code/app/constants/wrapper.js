@@ -1,0 +1,7 @@
+exports.SuccessStatus = 'SUCCESS'
+exports.FailureStatus = 'NOT SUCCESS'
+exports.SuccessCode = '200'
+exports.FailureCode = '400'
+exports.JWTAuth = 'Unauthorized user, Provide JWT token in Header' 
+exports.emailExists = 'Email Already Exists'
+exports.LoggedOut = 'You Are Logged Out Successfully'

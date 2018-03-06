@@ -1,0 +1,102 @@
+.left {
+        float:left;
+    }
+    
+.left {
+        background: rgba(255,255, 255, 0.84);
+        display: inline-block;
+        white-space: nowrap;
+        width: 50px;
+        transition: width 1s ;
+    }
+
+.left:hover {
+        width: 250px;
+    }    
+    
+.item:hover {
+    height:auto;
+}
+        
+.left .glyphicon {
+        margin:15px;
+        margin-left: 5px;
+        width:40px;
+        color:#4169e1;
+    }
+    
+span.glyphicon.glyphicon-refresh{
+    font-size:17px;
+    vertical-align: middle !important;
+    }
+    
+.item {
+        height:100px;
+        overflow:hidden;
+        color:#4169e1;
+}
+
+.item-1 {
+    height:100px;
+    overflow:hidden;
+    color:#4169e1;
+}
+
+.item-2 {
+    height:100px;
+    overflow:hidden;
+    color:#4169e1;
+}
+
+.item-3 {
+    height:100px;
+    overflow:hidden;
+    color:#4169e1;
+}
+
+.sub-menu {
+    display: none;
+}
+
+.item-1:hover {
+    height:auto;
+}
+
+.item-2:hover {
+    height:auto;
+}
+
+.item-3:hover {
+    height:auto;
+}
+
+.item:hover .sub-menu {
+    display: initial;
+}
+
+.item-1:hover .sub-menu {
+    display: initial;
+}
+
+.item-2:hover .sub-menu {
+    display: initial;
+}
+
+.item-3:hover .sub-menu {
+    display: initial;
+}
+
+.sub-menu-align {
+    margin-left: 55px;
+}
+
+.sub-menu-text-align {
+    font-family: "Roboto", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-color: #4169e1;
+    margin-left: 20px;
+}
+
+    
+   
+
+    
